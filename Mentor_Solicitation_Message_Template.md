@@ -1,4 +1,4 @@
-# Mentor Solicitation for email templat
+## Mentor solicitation email template
 
 inMail type: "Expertise Request"
 
