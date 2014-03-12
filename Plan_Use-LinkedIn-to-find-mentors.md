@@ -1,7 +1,7 @@
 # Use LinkedIn to find CoderDojo mentors
 
 Finding mentors in a suburban area like Henry County is challenging
-since there are no established tech communities.  A good way to find
+since there are no established tech groups in our local area.  A good way to find
 mentors especially in a suburban area is to use LinkedIn features.  We
 had about 1 mentor signup for every 10 mentors we contacted through
 LinkedIn.
