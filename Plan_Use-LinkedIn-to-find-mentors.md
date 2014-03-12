@@ -37,7 +37,7 @@ When you see a message from LinkedIn saying your inmail credits have
 been returned, make sure you message new mentors that day.
 
 ## Sent inmail messages to possible mentors
-Use the Mentor Solicitation Email template as a starting point for the
+Use the [Mentor Solicitation Email template](Mentor_Solicitation_Message_Template.md) as a starting point for the
 message you'll send to mentors.
 
 ## Follow-up with interested mentors
