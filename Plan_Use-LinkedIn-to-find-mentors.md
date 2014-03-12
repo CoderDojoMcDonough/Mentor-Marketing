@@ -26,11 +26,11 @@ they still had a local address.  This is not exact, but it will help
 filter out some developers who used to live near you but have moved and
 not updated their LinkedIn profile.
 
-## switch to an Premium "Executive" trial or paid LinkedIn account
-Try to obtain a 30 day free trial for a LinkedIn Executive Premium
+## Upgrade your LinkedIn account to a Premium "Executive" trial or paid LinkedIn account
+Try to obtain a 30 day free trial for a LinkedIn Premium
 account.  A few days after I visited the page with details about paid
-accounts, I recieved a 30 day free trial email from LinkedIn.  The
-Executive account gives you 25 inmail messages.  Messages that are not
+accounts, I recieved a 30 day free trial email from LinkedIn.  Choose the the
+Executive plan so that you have 25 inmail messages.  Messages that are not
 responded to are returned to your account after 7 days, so in the 30 day
 period you should be able to send 70 to 100 inmail messages to local mentors. 
 When you see a message from LinkedIn saying your inmail credits have
