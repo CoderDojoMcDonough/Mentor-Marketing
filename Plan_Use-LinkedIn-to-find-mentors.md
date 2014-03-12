@@ -1,4 +1,4 @@
-# Use LinkedIn to find mentors
+# Use LinkedIn to find CoderDojo mentors
 
 Finding mentors in a suburban area like Henry County is challenging
 since there are no established tech communities.  A good way to find
