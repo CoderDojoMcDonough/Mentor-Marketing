@@ -1,0 +1,47 @@
+# Use LinkedIn to find mentors
+
+Finding mentors in a suburban area like Henry County is challenging
+since there are no established tech communities.  A good way to find
+mentors especially in a suburban area is to use LinkedIn features.  We
+had about 1 mentor signup for every 10 mentors we contacted through
+LinkedIn.
+
+Have a location and a start date for your first coding session before
+you begin to solicit mentors.
+
+## Setup Mentor Signup Form
+Use a system like Google Forms or signupgenius.com to build a Mentor Signup Form.  The [CoderDojo McDonough Mentor Signup Form](https://docs.google.com/forms/d/1w2hYEt8bc-hVj4FM14ZAVDLq41WPmRewpAsJqVrC--A/viewform) is an example google form.
+
+
+## Locate mentors
+Using LinkedIn's advanced search feature, find LinkedIn members within
+10km of your zip code who have a developer keyword in their profile.
+Keyword examples for finding coding mentors are JavaScript, HTML CSS,
+Python, Ruby on Rails, PHP, .Net, and csharp
+
+## Double check mentors
+When we first sent messages to possible mentors, we recieved a couple of
+responses from developers who no longer lived in the area.  We used
+whitepages.com to search for the developer's name and city to see if
+they still had a local address.  This is not exact, but it will help
+filter out some developers who used to live near you but have moved and
+not updated their LinkedIn profile.
+
+## switch to an Premium "Executive" trial or paid LinkedIn account
+Try to obtain a 30 day free trial for a LinkedIn Executive Premium
+account.  A few days after I visited the page with details about paid
+accounts, I recieved a 30 day free trial email from LinkedIn.  The
+Executive account gives you 25 inmail messages.  Messages that are not
+responded to are returned to your account after 7 days, so in the 30 day
+period you should be able to send 70 to 100 inmail messages to local mentors. 
+When you see a message from LinkedIn saying your inmail credits have
+been returned, make sure you message new mentors that day.
+
+## Sent inmail messages to possible mentors
+Use the Mentor Solicitation Email template as a starting point for the
+message you'll send to mentors.
+
+
+
+
+
