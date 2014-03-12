@@ -41,7 +41,7 @@ Use the [Mentor Solicitation Email template](Mentor_Solicitation_Message_Templat
 message you'll send to mentors.
 
 ## Follow-up with interested mentors
-If a developer expresses interest in a reply but they do not complete the Mentor Signup Form, contact the developer again.
+If a developer expresses interest but they do not complete the Mentor Signup Form, contact the developer again.
 
 
 
