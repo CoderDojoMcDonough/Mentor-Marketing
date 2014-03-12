@@ -10,8 +10,7 @@ Have a location and a start date for your first coding session before
 you begin to solicit mentors.
 
 ## Setup Mentor Signup Form
-Use a system like Google Forms or signupgenius.com to build a Mentor Signup Form.  The [CoderDojo McDonough Mentor Signup Form](https://docs.google.com/forms/d/1w2hYEt8bc-hVj4FM14ZAVDLq41WPmRewpAsJqVrC--A/viewform) is an example google form.
-
+Use a system like Google Forms or signupgenius.com to build a Mentor Signup Form.  The [CoderDojo McDonough Mentor Signup Form](https://docs.google.com/forms/d/1w2hYEt8bc-hVj4FM14ZAVDLq41WPmRewpAsJqVrC--A/viewform) is an example google form.  If you use Google Forms, make sure you set the notification preferences of the spreadsheet so that your are emailed when new mentors sign up.
 
 ## Locate mentors
 Using LinkedIn's advanced search feature, find LinkedIn members within
@@ -40,6 +39,9 @@ been returned, make sure you message new mentors that day.
 ## Sent inmail messages to possible mentors
 Use the Mentor Solicitation Email template as a starting point for the
 message you'll send to mentors.
+
+## Follow-up with interested mentors
+If a developer expresses interest in a reply but they do not complete the Mentor Signup Form, contact the developer again.
 
 
 
