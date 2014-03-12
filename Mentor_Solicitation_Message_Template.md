@@ -2,7 +2,7 @@
 
 inMail type: "Expertise Request"
 
-**Subject:  **  
+**Subject:**  
 CoderDojo [City] needs your help!  
 or  
 Mentoring Opportunity at CoderDojo [City]! 
