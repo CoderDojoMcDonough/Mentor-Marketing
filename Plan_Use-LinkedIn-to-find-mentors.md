@@ -38,7 +38,7 @@ been returned, make sure you message new mentors that day.
 
 ## Sent inmail messages to possible mentors
 Use the [Mentor Solicitation Email template](Mentor_Solicitation_Message_Template.md) as a starting point for the
-message you'll send to mentors.
+message you'll send to mentors.  Keep a list of the mentors you've contacted.  When you search for more mentors later it will be helpful to know which developers you've already contacted.
 
 ## Follow-up with interested mentors
 If a developer expresses interest but they do not complete the Mentor Signup Form, contact the developer again.
