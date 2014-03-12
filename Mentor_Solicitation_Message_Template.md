@@ -2,13 +2,13 @@
 
 inMail type: "Expertise Request"
 
-Subject:  
+**Subject:  **  
 CoderDojo [City] needs your help!  
 or  
 Mentoring Opportunity at CoderDojo [City]! 
 
-Text:  
--------------  
+**Text:**
+
 Hello [FirstName], 
 
 CoderDojo [City] is seeking developers of all skill levels who are interested in sharing their knowledge with local youth. The time commitment required is very low since the monthly sessions only last a couple hours and no preparation is necessary on your part because we will be using resources like codecademy.com. CoderDojo is a worldwide non-profit group founded to teach young people (ages 7-17) to code. This is a great opportunity to get to know other developers in the area while making a positive impact in our community. 
