@@ -36,7 +36,7 @@ period you should be able to send 70 to 100 inmail messages to local mentors.
 When you see a message from LinkedIn saying your inmail credits have
 been returned, make sure you message new mentors that day.
 
-## Sent inmail messages to possible mentors
+## Send inmail messages to possible mentors
 Use the [Mentor Solicitation Email template](Mentor_Solicitation_Message_Template.md) as a starting point for the
 message you'll send to mentors.  Keep a list of the mentors you've contacted.  When you search for more mentors later it will be helpful to know which developers you've already contacted.
 
