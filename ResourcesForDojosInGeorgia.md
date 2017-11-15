@@ -11,13 +11,15 @@ Read our document about [how to use LinkedIn to find CoderDojo mentors.](https
 **PhotoShop PSD files for flyers and other graphic assets.**    
 The CoderDojo McDonough logo was designed by the good folks at [VersionOne](https://www.versionone.com/).  Please contact [Joshua Gough](mailto:jsgough@gmail.com) for information on any use of the CoderDojo graphics other than for a CoderDojo in the state of Georgia.
 
-[Flyer targeted to students](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/Flyers/CoderDojoFlyer-TargetedToKids.psd)
+[2017 Flyer idea](https://www.dropbox.com/s/mzro5sy1ojeyoqv/CoderDojoFlyer-2017.pdf?dl=0)
 
-[Flyer targeted to parents](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/Flyers/CoderDojoFlyer-TargetedToParents.psd)
+[Older flyer idea targeted to students](https://www.dropbox.com/s/5mr64131ie5izof/CoderDojoFlyer-TargetedToKids.psd?dl=0)
 
-[Two CoderDojo flyers on one page](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/Flyers/CoderDojoFlyer-Double.psd)
+[Older flyer idea targeted to parents](https://www.dropbox.com/s/h2upfwf54d2q7zj/CoderDojoFlyer-TargetedToParents.psd?dl=0)
 
-[Room sign for coding sessions](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/Flyers/CoderDojo-RoomSign.psd)
+[Two generic CoderDojo flyers on one page](https://www.dropbox.com/s/nm5yog4r37im6ul/CoderDojoFlyer-Double.psd?dl=0)
+
+[Room sign for coding sessions](https://www.dropbox.com/s/xgyjrfb50q7ekmm/CoderDojo-RoomSign.psd?dl=0)
 
 **Shirts**[  
 T-shirt design on Customink](http://www.customink.com/designs/dojotshirt/qxx0-00aa-gg38/twt)
