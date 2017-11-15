@@ -24,9 +24,7 @@ T-shirt design on Customink](http://www.customink.com/designs/dojotshirt/qxx0-00
 
 **Background Checks**
 
-After a recent agreement, Dojo without 501c3 status will still be able to avail of this partnership. 
-
- the CoderDojo Foundation have negotiated a partnership with Verified Volunteers for helping US Dojos to get volunteers background checked! Child Protection is a massive priority for the global CoderDojo community and this partnership came about after other US Dojos had worked with Verified Volunteers and suggested we start a conversation. 
+The CoderDojo Foundation has negotiated a partnership with Verified Volunteers for helping US Dojos to get volunteers background checked! Child Protection is a massive priority for the global CoderDojo community and this partnership came about after other US Dojos had worked with Verified Volunteers and suggested we start a conversation. 
 
 If you would like to find out more about the partnership, rates and see the success other Dojos have had using Verified Volunteers in the past please check out [here>>>](http://kata.coderdojo.com/wiki/Background_Checking_US) for more information. 
 
