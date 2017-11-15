@@ -1,8 +1,7 @@
 **Getting Started**  
 The [CoderDojo.com](https://coderdojo.com/) website has abundant resources for getting started with your own CoderDojo.
 
-Read our document about [how ](https://github.com/CoderDojoMcDonough/Mentor-Marketing/blob/master/Plan_Use-LinkedIn-to-find-mentors.md)<u>[use LinkedIn to find CoderDojo mentors.  
-](https://github.com/CoderDojoMcDonough/Mentor-Marketing/blob/master/Plan_Use-LinkedIn-to-find-mentors.md)</u>
+Read our document about [how to use LinkedIn to find CoderDojo mentors.](https://github.com/CoderDojoMcDonough/Mentor-Marketing/blob/master/Plan_Use-LinkedIn-to-find-mentors.md)
 
 [CS First](http://www.cs-first.com/) - Scratch based learning system from Google  
 
@@ -18,15 +17,12 @@ The CoderDojo McDonough logo was designed by the good folks at [VersionOne](http
 
 [Two CoderDojo flyers on one page](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/Flyers/CoderDojoFlyer-Double.psd)
 
-[Room sign for coding sessions  
-
-](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/Flyers/CoderDojo-RoomSign.psd)
+[Room sign for coding sessions](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/Flyers/CoderDojo-RoomSign.psd)
 
 **Shirts**[  
 T-shirt design on Customink](http://www.customink.com/designs/dojotshirt/qxx0-00aa-gg38/twt)
 
-**  
-Background Checks**
+**Background Checks**
 
 After a recent agreement, Dojo without 501c3 status will still be able to avail of this partnership. 
 
