@@ -4,23 +4,10 @@ The [CoderDojo.com](https://coderdojo.com/) website has abundant resources for g
 Read our document about [how ](https://github.com/CoderDojoMcDonough/Mentor-Marketing/blob/master/Plan_Use-LinkedIn-to-find-mentors.md)<u>[use LinkedIn to find CoderDojo mentors.  
 ](https://github.com/CoderDojoMcDonough/Mentor-Marketing/blob/master/Plan_Use-LinkedIn-to-find-mentors.md)</u>
 
-[GaComo 2015 PowerPoint presentation](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/CoderDojoV2.pptx)**[  
-
-](https://dl.dropboxusercontent.com/u/9362458/CoderDojoMcDonough/CoderDojoV2.pptx)**[CS First](http://www.cs-first.com/) - Scratch based learning system from Google  
+[CS First](http://www.cs-first.com/) - Scratch based learning system from Google  
 
 [Educator Resources](https://csedweek.org/educate/3rdparty) from Computer Science Education Week  
 
-**Ideas for backup materials in case of Wifi problems**
-
-Look through the courses offered by Code.org for “Unplugged Activities”.  Download the PDF files and save to a USB drive:  
-[https://studio.code.org/s/course1](https://studio.code.org/s/course1)  
-[https://studio.code.org/s/course2](https://studio.code.org/s/course2)
-
-Download the [Scratch Offline Editor](https://scratch.mit.edu/scratch2download/) to use Scratch without an internet connection.  Save the installation file and support materials to a USB drive.  
-
-Other great resources for learning about computer programming without a computer or internet connection can be found at [http://csunplugged.org/  
-
-](http://csunplugged.org/)
 
 **PhotoShop PSD files for flyers and other graphic assets.**    
 The CoderDojo McDonough logo was designed by the good folks at [VersionOne](https://www.versionone.com/).  Please contact [Joshua Gough](mailto:jsgough@gmail.com) for information on any use of the CoderDojo graphics other than for a CoderDojo in the state of Georgia.
